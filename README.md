@@ -1,5 +1,5 @@
 ClientAddressProject
 ====================
 
-ClientAddressProject
-This is a client web project for AddressProject
+
+This is a web client for AddressProject
